@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dating Coach"
+  short_description: "基于聊天证据判断关系阶段、复盘互动模式并训练自然表达能力"
+  default_prompt: "Use $dating-coach to analyze this conversation, estimate the observable relationship stage, and help me improve my own reply."
